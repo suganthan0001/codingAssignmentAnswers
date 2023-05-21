@@ -17,7 +17,7 @@ h1{
 .realContent{
     background-color: #DBDFEA;
     position: relative;
-    border: solid 2px black;
+    border: solid 1px black;
     padding: 10px;
 }
 .dishNames{
@@ -29,8 +29,8 @@ h1{
     top: 0;
     right: 0;
     width: 30%;
-    border-left: black solid 2px;
-    border-bottom: black solid 2px;
+    border-left: black solid 1px;
+    border-bottom: black solid 1px;
 }
 .color1{
     background-color: #B799FF;
