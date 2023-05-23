@@ -1,0 +1,15 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+    background-color: #9DB2BF;
+}
+.navbar-brand{
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+.Maincontent{
+    background-color: #9DB2BF;
+}
